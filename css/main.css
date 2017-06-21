@@ -1,9 +1,14 @@
 @import url("pygment_highlights.css");
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 /* --- General --- */
 
+.montFont{
+	font-family: 'Montserrat', sans-serif;
+}
+
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -18,7 +23,7 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 800;
 }
 a {
@@ -99,7 +104,7 @@ img {
 .navbar-custom {
   background: #431578;
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background: url(../img/bg-pattern.png), #431578;
   background-blend-mode: overlay;
 }
@@ -340,7 +345,7 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -377,7 +382,7 @@ footer .theme-by {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #999;
   font-size: 15px;
   margin-bottom: 30px;
@@ -470,7 +475,7 @@ footer .theme-by {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -495,7 +500,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -569,7 +574,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
