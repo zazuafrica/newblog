@@ -10,9 +10,10 @@
 body {
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
-  color: #404040;
+  color: #fff;
   position: relative;
-  background: #FFF;
+  background: url(../img/bg-pattern.png), #431578;
+  background-blend-mode: overlay;
 }
 p {
   line-height: 1.5;
@@ -20,21 +21,21 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #008AFF;
+  color: #fff;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 800;
 }
 a {
-  color: #008AFF;
+  color: #fff;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #fff;
 }
 blockquote {
-  color: #808080;
+  color: #fff;
   font-style: italic;
 }
 blockquote p:first-child {
@@ -103,7 +104,7 @@ img {
 
 .navbar-custom {
   background: #431578;
-  border-bottom: 1px solid #EAEAEA;
+  border-bottom: 0px;
   font-family: 'Montserrat', sans-serif;
   background: url(../img/bg-pattern.png), #431578;
   background-blend-mode: overlay;
