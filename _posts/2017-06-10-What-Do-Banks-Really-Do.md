@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What Do Banks Really Do?
-bigimg: /img/path.jpg
 ---
 ## What Do Banks Really Do?
 
