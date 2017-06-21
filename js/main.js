@@ -90,7 +90,8 @@ var main = {
 		// if I want to do something once the image is ready: `prefetchImg.onload = function(){}`
 		
   		setTimeout(function(){
-                  var img = $("<div></div>").addClass("big-img-transition").css("background-image", 'url(' + src + ')');
+                  //var img = $("<div></div>").addClass("big-img-transition").css("background-image", 'url(' + src + ')');
+		  var img = $("<div></div>").addClass("big-img-transition").css("background": 'url(../img/bg-pattern.png)', '#431578'; "background-blend-mode": 'overlay');
   		  $(".intro-header.big-img").prepend(img);
   		  setTimeout(function(){ img.css("opacity", "1"); }, 50);
 		  
