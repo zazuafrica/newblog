@@ -1,14 +1,22 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Welcome to Zazu
 bigimg: /img/path.jpg
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?  
+**What is Zazu?**
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.  
+Zazu wants to be Africa's first digital-only bank. It is extremely expensive to open and operate bank branches, especially in developing countries. As a result, people do not have bank accounts. And they don't interact with financial services at all. We want to change this. We want to provide a service that other banks cannot offer: a bank that is easy to approach, a bank that tells you exactly what you are spending & a bank that takes away all the unnecessary fees. We want to build a bank that helps you manage your money better, so that you can achieve your objectives, from building a house to a weekend escape. 
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.  
+Extremely bad service is very very common among African banks. From the scary security guards outside, to the grumpy overworked bank teller. Most banks seem to be relics of colonialism in which the customer is made to feel uncomfortable. Despite giving them your money. There is no reason why in today’s age we should still feel down when heading to the bank knowing the queue we’ll be facing. Nor should we get demoralised by the amount of paperwork to fill in to simply open an account. Not to talk about the money disappearing from our accounts when we use the ATM. Zazu wants to answer all of these questions and more.  We are building a bank to change all of this. A bank which answers to you. 
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+# Here is the roadmap. 
+
+In September 2017 we will launch with 1500 pre paid debit cards. We want to give these out to people who regularly use cards to make payments, because we want to understand how to develop our app to be the best it can. 
+
+In November 2017 we will release Zazu Pay. Which will allow merchants across the country to accept digital payments. Easily. 
+
+In January 2018, we hope to have received the Banking Licence from the Bank of Zambia and we hope to launch our digital bank only. 
+
+You can also follow us on Facebook & Twitter, or reach us at: hello@ilovezazu.com
+ 
