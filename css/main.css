@@ -590,11 +590,11 @@ footer .theme-by {
     padding: 15px 25px;
   }
 }
-.pager li a:hover,
-.pager li a:focus {
-  color: #FFF;
-  background: #0085a1;
-  border: 1px solid #0085a1;
+
+.pager li a:hover, .pager li a:focus {
+    color: #FFF;
+    background: #ffb819;
+    border: 1px solid #ffb819;
 }
 
 .pager {
