@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: ZazuPAY
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Building Africa’s first digital only bank.
 
 # --- Navigation bar options --- #
 
@@ -82,7 +82,7 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
