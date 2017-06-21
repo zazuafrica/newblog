@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Welcome to Zazu
-bigimg: /img/path.jpg
 ---
 
 **What is Zazu?**
