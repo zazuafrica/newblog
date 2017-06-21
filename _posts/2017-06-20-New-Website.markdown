@@ -1,7 +1,6 @@
 ---
 layout: post
 title: New Website
-bigimg: /img/path.jpg
 ---
 ## New Website Launch
 
