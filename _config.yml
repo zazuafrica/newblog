@@ -24,7 +24,7 @@ description: Building Africa’s first digital only bank.
 
 # List of links in the navigation bar
 navbar-links:
-  ZazuPAY Home: "http://ilovezazu.com"
+  Main Site: "http://ilovezazu.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
