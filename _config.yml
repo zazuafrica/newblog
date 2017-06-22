@@ -15,6 +15,7 @@ baseurl: ""
 
 # Name of website
 title: ZazuPAY
+title-img: /img/zazuLogo.png
 
 # Short description of your site
 description: Building Africa’s first digital only bank.
