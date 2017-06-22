@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Zazu
+fbcomments: yes
 ---
 
 ** What is Zazu? **
