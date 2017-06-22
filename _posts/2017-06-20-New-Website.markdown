@@ -3,7 +3,7 @@ layout: post
 title: New Website
 fbcomments: yes
 ---
-## New Website Launch
+### New Website Launch
 
 3 weeks ago we set up on the adventure of a lifetime: to launch the first digital bank in Africa. We wanted to make sure we would build a product and service that people would love. A product that would be unique and a product that you will continuously tell all your friends and family about. 
 
