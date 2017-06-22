@@ -1,8 +1,9 @@
 ---
 layout: post
 title: What Do Banks Really Do?
+fbcomments: yes
 ---
-## What Do Banks Really Do?
+### What Do Banks Really Do?
 
 Banks are not that different from any other business. 
 
