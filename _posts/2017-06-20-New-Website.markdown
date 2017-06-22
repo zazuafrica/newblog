@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Website
+fbcomments: yes
 ---
 ## New Website Launch
 
