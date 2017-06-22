@@ -4,7 +4,7 @@ title: Welcome to Zazu
 fbcomments: yes
 ---
 
-** What is Zazu? **
+### What is Zazu?
 
 Zazu wants to be Africa's first digital-only bank. It is extremely expensive to open and operate bank branches, especially in developing countries. As a result, people do not have bank accounts. And they don't interact with financial services at all. We want to change this. We want to provide a service that other banks cannot offer: a bank that is easy to approach, a bank that tells you exactly what you are spending & a bank that takes away all the unnecessary fees. We want to build a bank that helps you manage your money better, so that you can achieve your objectives, from building a house to a weekend escape. 
 
