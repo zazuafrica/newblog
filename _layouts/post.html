@@ -27,10 +27,9 @@ layout: base
       {% endif %}
       
       <div style="padding: 30px 0;width: 100%; text-align: center;"> 
-          <h5>Written by</h5>
+          <h5 style="color: #ffb819;">Written by</h5>
           <img src="../img/icon.png" style="height: 100px; width: 100px; border-radius: 100%; border: 1px solid #fff; margin-top: 10px;"/>
-          <h5 style="color: #ffb819;">Posted on {{ page.date | date: "%B %-d, %Y" }}</h5>
-
+          <h5 style="color: #ffb819; margin-top: 20px;">Posted on {{ page.date | date: "%B %-d, %Y" }}</h5>
       </div>
       
       {% if page.social-share %}
