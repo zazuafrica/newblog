@@ -7,12 +7,31 @@
 	font-family: 'Montserrat', sans-serif;
 }
 
-._491z {
-    border-bottom: 0px !important; 
+.navbar-toggle .icon-bar:nth-of-type(2) {
+	  top: 1px;
 }
 
-._5lm5 {
-    border-top: 0px !important;
+.navbar-toggle .icon-bar:nth-of-type(3) {
+  	top: 2px;
+}
+
+.navbar-toggle .icon-bar {
+	  position: relative;
+	  transition: all 500ms ease-in-out;
+}
+
+.navbar-toggle.active .icon-bar:nth-of-type(1) {
+	  top: 6px;
+	  transform: rotate(45deg);
+}
+
+.navbar-toggle.active .icon-bar:nth-of-type(2) {
+	  background-color: transparent;
+}
+
+.navbar-toggle.active .icon-bar:nth-of-type(3) {
+	  top: -6px;
+	  transform: rotate(-45deg);
 }
 
 @keyframes fadein {
