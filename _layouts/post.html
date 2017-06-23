@@ -25,16 +25,17 @@ layout: base
           {% endif %}
         </div>
       {% endif %}
-
-      {% if page.social-share %}
-        {% include social-share.html %}
-      {% endif %}
       
-      <div style="padding: 50px 0;> 
+      <div style="padding: 50px 0; border-top: 1px solid; border-bottom: 1px solid; width: 100%"> 
           <h5>Written by</h5>
            <img src="../img/zazuLogo.png" style="height: 80px; width: 80px; border-radius: 100%;"/>
            
       </div>
+      
+      {% if page.social-share %}
+        {% include social-share.html %}
+      {% endif %}
+      
 
       <ul class="pager blog-pager">
         {% if page.previous.url %}
