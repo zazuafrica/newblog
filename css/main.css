@@ -7,6 +7,14 @@
 	font-family: 'Montserrat', sans-serif;
 }
 
+._491z {
+    border-bottom: 0px !important; 
+}
+
+._5lm5 {
+    border-top: 0px !important;
+}
+
 @keyframes fadein {
   from {
     opacity: 0; }
