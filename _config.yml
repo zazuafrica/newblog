@@ -21,6 +21,9 @@ title-img: /img/zazuLogo.png
 description: Building Africa’s first digital only bank.
 
 # --- Navigation bar options --- #
+# List of links in the navigation bar
+navbar-links:
+  ZazuPAY Home: "http://ilovezazu.com"
 
 # List of links in the navigation bar
 
