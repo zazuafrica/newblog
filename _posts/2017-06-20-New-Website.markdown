@@ -14,6 +14,8 @@ So to get really good feedback from people, we had to talk to them and let them 
 -	53% wanted a new bank. 
 -	14% had no bank at all. 
 
+![card](../img/zazuCard.png){:class="img-responsive"}
+
 Those that wanted a new bank, were fed up with really bad experiences from their current banks. From long queues, to unexplained charges and sub-par customer service. They simply wanted a new and better experience. 
 
 The ones that didn’t have a bank account, explained their hopes and ideals. Some of them didn’t know what banks did. So we wrote a blog ‘What do Banks really do?’’ and from that, a sizable number of you got in touch asking us to write or teach people about financial literacy. In particular, how do people save money? 
