@@ -93,7 +93,7 @@ url-pretty: "ilovezazu.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtm: ""
 
 # Facebook App ID
-# fb_app_id: ""
+fb_app_id: "1441680502592638"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
