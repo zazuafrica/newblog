@@ -1,7 +1,8 @@
 ---
 layout: post
 title: New Website
-fbcomments: yes
+fbcomments: 'yes'
+published: true
 ---
 
 3 weeks ago we set up on the adventure of a lifetime: to launch the first digital bank in Africa. We wanted to make sure we would build a product and service that people would love. A product that would be unique and a product that you will continuously tell all your friends and family about. 
@@ -14,6 +15,8 @@ So to get really good feedback from people, we had to talk to them and let them 
 -	53% wanted a new bank. 
 -	14% had no bank at all. 
 
+![zazuCard.png]({{site.baseurl}}/img/zazuCard.png)
+
 Those that wanted a new bank, were fed up with really bad experiences from their current banks. From long queues, to unexplained charges and sub-par customer service. They simply wanted a new and better experience. 
 
 The ones that didn’t have a bank account, explained their hopes and ideals. Some of them didn’t know what banks did. So we wrote a blog ‘What do Banks really do?’’ and from that, a sizable number of you got in touch asking us to write or teach people about financial literacy. In particular, how do people save money? 
@@ -24,8 +27,4 @@ This question was particularly popular from people living or working in the Copp
 As we spoke to more and more people, we were asking about their financial habits. And it came out that everyone was concerned about their future. They wanted to understand exactly how much money they had at that moment. When they spent something, they wanted instant feedback so they can never be overdrawn. 
 
 We sat down and looked at our website and asked ourselves, does this communicate what we want to do? And it was a strong no. 
-So our current website is our attempt to share more about our vision, product and the first steps to create a community. We would absolutely love it if you would tell us your thoughts and feelings about the new website. 
-
-
-
-
+So our current website is our attempt to share more about our vision, product and the first steps to create a community. We would absolutely love it if you would tell us your thoughts and feelings about the new website.
