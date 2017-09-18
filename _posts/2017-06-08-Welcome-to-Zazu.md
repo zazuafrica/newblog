@@ -10,11 +10,11 @@ Extremely bad service is very very common among African banks. From the scary se
 
 ### Here is the roadmap. 
 
-In September 2017 we will launch with 1500 pre paid debit cards. We want to give these out to people who regularly use cards to make payments, because we want to understand how to develop our app to be the best it can. 
+In November 2017 we will launch with 1500 pre paid debit cards. We want to give these out to people who regularly use cards to make payments, because we want to understand how to develop our app to be the best it can. 
 
 In November 2017 we will release Zazu Pay. Which will allow merchants across the country to accept digital payments. Easily. 
 
-In January 2018, we hope to have received the Banking Licence from the Bank of Zambia and we hope to launch our digital bank only. 
+In Q3 2018, we hope to have received the Banking Licence from the Bank of Zambia and we hope to launch our digital bank only. 
 
 You can also follow us on Facebook & Twitter, or reach us at: hello@ilovezazu.com
  
